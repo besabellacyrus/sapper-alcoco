@@ -81,7 +81,7 @@
 				</div>
 			</section>
 			<footer>
-				<p>We're still building our site but you may reach us for any questions. <br> You may contact us through <span><a href="mailto:someone@yoursite.com">email@alcoco.com.ph</a></span> Keep safe!</p> 
+				<p>We're still building our site but you may reach us for any questions. <br> You may contact us through <span><a href="mailto:email@alcoco.com.ph">email@alcoco.com.ph</a></span> Keep safe!</p> 
 			</footer>
 		</div>
 	</div>
