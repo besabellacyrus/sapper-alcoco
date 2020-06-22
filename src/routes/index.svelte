@@ -73,7 +73,7 @@
 	<meta property="og:url" content="https://alcoco.com.ph/">
 	<meta property="og:title" content="Alcoco Antibacterial Gel Sanitizer">
 	<meta property="og:description" content="Alcoco Antibacterial Gel Sanitizer">
-	<meta property="og:image" content="https://alcoco.com.ph/img/alcoco-logo.svg">
+	<meta property="og:image" content="https://alcoco.com.ph/img/alcoco-bottle.png">
 </svelte:head>
 
 <div class="bg-main-wrapper"> 
