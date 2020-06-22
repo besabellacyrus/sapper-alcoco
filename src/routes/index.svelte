@@ -64,7 +64,16 @@
 </style>
 
 <svelte:head>
-	<title>Alcoco</title>
+	<title>Meta Tags — Preview, Edit and Generate</title>
+	<meta name="title" content="Alcoco Antibacterial Gel Sanitizer">
+	<meta name="description" content="Alcoco Antibacterial Gel Sanitizer">
+
+	<!-- Open Graph / Facebook -->
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://alcoco.com.ph/">
+	<meta property="og:title" content="Alcoco Antibacterial Gel Sanitizer">
+	<meta property="og:description" content="Alcoco Antibacterial Gel Sanitizer">
+	<meta property="og:image" content="https://alcoco.com.ph/img/alcoco-logo.svg">
 </svelte:head>
 
 <div class="bg-main-wrapper"> 
