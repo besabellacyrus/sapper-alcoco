@@ -65,14 +65,14 @@
 
 <svelte:head>
 	<title>Meta Tags — Preview, Edit and Generate</title>
-	<meta name="title" content="Alcoco Antibacterial Gel Sanitizer">
-	<meta name="description" content="Alcoco Antibacterial Gel Sanitizer">
+	<meta name="title" content="Hand sanitizer and antibacterial gel from coconuts | ALCOCO">
+	<meta name="description" content="The Philippines' first coconut-based 70% ethyl alcohol solution hand sanitizer with 99.9% germ kill rate.">
 
 	<!-- Open Graph / Facebook -->
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="https://alcoco.com.ph/">
-	<meta property="og:title" content="Alcoco Antibacterial Gel Sanitizer">
-	<meta property="og:description" content="Alcoco Antibacterial Gel Sanitizer">
+	<meta property="og:title" content="Hand sanitizer and antibacterial gel from coconuts | ALCOCO">
+	<meta property="og:description" content="he Philippines' first coconut-based 70% ethyl alcohol solution hand sanitizer with 99.9% germ kill rate.">
 	<meta property="og:image" content="https://alcoco.com.ph/img/alcoco-bottle.png">
 </svelte:head>
 
